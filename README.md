@@ -1,4 +1,4 @@
-# Original Scores & Arrangements
+# Film Scores (Orchestrations and Arrangements)
 ---------------------------------------------------
 In this repository, you can find my scores and the arrangements that I've created over the years. 
 Many have been played live by professional Italian orchestras at events and shows.
